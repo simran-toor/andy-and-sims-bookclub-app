@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@types/react-pdf": "^5.7.2",
+    "react-pdf": "^5.7.2"
+  }
+}
