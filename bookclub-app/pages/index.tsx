@@ -3,7 +3,7 @@ import Head from 'next/head'
 import styles from '../styles/Home.module.css'
 import { useState } from 'react'; 
 import { Document, Page, pdfjs } from 'react-pdf';
-import alice from '/assets/alice.pdf'
+import alice from '../public/assets/alice.pdf';
 
 const url = "https://cors-anywhere.herokuapp.com/https://ia600502.us.archive.org/22/items/alicesadventur00carr/alicesadventur00carr.pdf"
 
